@@ -1,1 +1,1 @@
-# Certyficate
+# Certificate
